@@ -1,1 +1,1 @@
-# game-of-life
+standard game of life implementation, nothing fancy/interesting
